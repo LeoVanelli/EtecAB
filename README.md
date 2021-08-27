@@ -2,6 +2,7 @@
 
 * 🖥️ Exercício: Saída via Console (1) - EtecAB
 * 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
 * 👨‍🏫 Orientador: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
 * 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md
 
